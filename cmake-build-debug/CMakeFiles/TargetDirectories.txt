@@ -1,0 +1,3 @@
+C:/Users/jxxng/CLionProjects/myList/cmake-build-debug/CMakeFiles/myList.dir
+C:/Users/jxxng/CLionProjects/myList/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jxxng/CLionProjects/myList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
